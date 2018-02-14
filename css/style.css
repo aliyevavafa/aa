@@ -1,0 +1,170 @@
+body{
+    font-family: 'Barlow Condensed', sans-serif;
+}
+header{
+	background-image: url(../image/bg3.jpg) ;
+	height: 700px;
+	width: 100%;
+	background-repeat: no-repeat;
+	background-size: 100%;
+
+}
+header img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.signUp button{
+	padding: 10px 36px;
+	background-color: #3D414B;
+	color: white;
+    border:2px solid white;
+    border-radius: 20px;
+    font-weight: bold;
+ 
+}
+.signUp h1{
+  color: white;
+  font-size: 50px;
+
+}
+.signUp{
+	margin-top: 120px;
+}
+.signUp p{
+	font-size: 20px;
+	line-height: 32px;
+	color:#8C8F90;
+
+}
+#themes{
+	height: 850px;
+    width: 100%;
+    margin-top: 60px;
+
+}
+#themes h2{
+	 font-size: 50px;
+	 font-family: 'Barlow Condensed', sans-serif;
+}
+#themes p{
+	color: #787D80;
+	font-size: 20px;
+	font-family: 'Barlow Condensed', sans-serif;
+
+}
+
+.gallery img{
+	border:1px solid white;
+	box-shadow: all;
+	margin-top: 40px;
+	width:520px;
+
+
+
+
+}
+.galleryImg{
+	height: 350px;
+
+}
+#startSimple{
+	height:450px; 
+	background: #F8F8F8;
+}
+.startSimple {
+	margin-top: 60px;
+}
+.computer img{
+	width: 100%;
+}
+.startSimpleRight{
+	padding: 20px;
+}
+.startSimpleRight h1{
+ font-family: 'Barlow Condensed', sans-serif;
+ font-size: 50px;
+}
+.startSimpleRight span{
+ font-family: 'Barlow Condensed', sans-serif;
+ font-size: 20px;
+ line-height: 25px;
+ color: #939778;
+
+}
+#features{
+  height: 650px;
+}
+.featuresItem{
+	margin-top: 50px;
+	height: 200px;
+
+}
+.features h1{
+   padding-top: 30px;
+   font-family: 'Barlow Condensed', sans-serif;
+   font-size: 45px;
+}
+.features .icons{
+	color: #A1A5A9;
+	font-size: 45px;
+
+}
+.featuresItem .textSpan{
+	color:#666C7D;
+	font-size: 22px; 
+}
+.featuresItem  h2{
+   color:gray;
+   font-size: 25px;
+}
+#help{
+	height: 380px;
+	background-image: url(../image/blue.png);
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+.helpDiv{
+	margin-top: 90px;
+	height: 250px;
+	padding: 25px;
+	box-sizing: border-box;
+	color: white;
+}
+.helpDiv h2{
+	font-size: 40px;
+	font-family: 'Barlow Condensed', sans-serif;
+
+}
+.helpDiv span{
+	font-size: 20px;
+	font-family: 'Barlow Condensed', sans-serif;
+}
+.helpImg{
+	margin-top: 100px;
+
+}
+.helpImg img{
+	width: 100%;
+}
+#join{
+	height: 240px;
+}
+#join h2{
+	font-size: 45px;
+	padding: 25px;
+}
+#join button{
+	padding: 10px 45px;
+	color: #2990EA;
+    border:2px solid #2990EA;
+    border-radius: 20px;
+    font-weight: bold;
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    font-size: 16px;
+ 
+}
+
