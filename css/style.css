@@ -38,7 +38,7 @@ header img{
 
 }
 #themes{
-	height: 850px;
+	height: 950px;
     width: 100%;
     margin-top: 60px;
 
@@ -54,20 +54,20 @@ header img{
 
 }
 
-.gallery img{
-	border:1px solid white;
-	box-shadow: all;
-	margin-top: 40px;
-	width:520px;
 
-
-
-
+.galleryImg img{
+	width: 100%;
 }
-.galleryImg{
-	height: 350px;
-
+.galleryImg {
+  box-shadow: 7px 7px 7px 7px  #888888;
+  margin-top: 20px;
 }
+
+
+
+
+
+
 #startSimple{
 	height:450px; 
 	background: #F8F8F8;
@@ -93,60 +93,71 @@ header img{
 
 }
 #features{
-  height: 650px;
+  height: 570px;
+  margin-top: 55px;
+
 }
 .featuresItem{
 	margin-top: 50px;
 	height: 200px;
 
 }
-.features h1{
-   padding-top: 30px;
-   font-family: 'Barlow Condensed', sans-serif;
-   font-size: 45px;
-}
-.features .icons{
-	color: #A1A5A9;
-	font-size: 45px;
 
+#features .icons{
+color: #A1A5A9;
+	font-size: 45px;
 }
-.featuresItem .textSpan{
-	color:#666C7D;
-	font-size: 22px; 
-}
-.featuresItem  h2{
-   color:gray;
+#features h2{
+	  color:gray;
    font-size: 25px;
 }
+#features span{
+	 color:#666C7D;
+	font-size: 22px; 
+}
+
 #help{
-	height: 380px;
+	height:370px; 
+	background: #F8F8F8;
+
 	background-image: url(../image/blue.png);
 	background-repeat: no-repeat;
 	background-size: 100%;
 }
-.helpDiv{
-	margin-top: 90px;
-	height: 250px;
-	padding: 25px;
-	box-sizing: border-box;
-	color: white;
+.helpM {
+	margin-top: 60px;
 }
-.helpDiv h2{
-	font-size: 40px;
-	font-family: 'Barlow Condensed', sans-serif;
+
+
+.helpLeft{
+	padding: 20px;
+	height: 240px;
 
 }
-.helpDiv span{
-	font-size: 20px;
-	font-family: 'Barlow Condensed', sans-serif;
-}
-.helpImg{
-	margin-top: 100px;
-
-}
-.helpImg img{
+.helpRight img{
 	width: 100%;
+	height: 280px;
 }
+.helpRight{
+  height: 240px;
+  margin-top: 30px;
+}
+
+.helpLeft h1{
+ font-family: 'Barlow Condensed', sans-serif;
+ font-size: 50px;
+ color: white;
+}
+.helpLeft span{
+ font-family: 'Barlow Condensed', sans-serif;
+ font-size: 20px;
+ line-height: 25px;
+ 	
+ 		color: white;
+}
+
+
+
 #join{
 	height: 240px;
 }
